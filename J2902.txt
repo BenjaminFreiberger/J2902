@@ -1,0 +1,119 @@
+Date Dec 10
+=====================================================
+What did I learn today? What is the "big idea"?
+we were freakishly underprepared for this presentation
+What challenges did I encounter?
+Mr. Ben-yakov roasted our entire project
+How has what I've learned impacted my thinking?
+I need think about how normal people will see our project and fix what is bad
+
+
+Date Dec 8
+=====================================================
+What did I learn today? What is the "big idea"?
+we need to connect the backend code to the front end code
+What challenges did I encounter?
+I needed to use java script more than i have so far
+How has what I've learned impacted my thinking?
+I need to learn more coding languages in order to creaste better things
+
+
+Date Dec 6
+=====================================================
+What did I learn today? What is the "big idea"?
+making the buttons larger
+What challenges did I encounter?
+The buttons were increasing but the font-size was still the same
+How has what I've learned impacted my thinking?
+there are multily elements that need to be edited in buttons to make them look better
+
+
+Date Dec 2
+=====================================================
+What did I learn today? What is the "big idea"?
+learn how to test the code through bash
+What challenges did I encounter?
+Allen technology department removed my ability to test my code at school
+How has what I've learned impacted my thinking?
+allen is really walking on thin ice
+
+
+Date Nov 30
+=====================================================
+What did I learn today? What is the "big idea"?
+I learned that my fellow students are really hardworking
+What challenges did I encounter?
+the second page of our project is written in python which I dont understand
+How has what I've learned impacted my thinking?
+I need to start working harder on this project
+
+
+
+Date Nov 19
+=====================================================
+What did I learn today? What is the "big idea"?
+code from the internet makes no sense 
+What challenges did I encounter?
+my teamates used buttons that were single instances of the button in a  massive css file
+How has what I've learned impacted my thinking?
+I need to make the buttons work for myself
+
+
+Date Nov 17
+=====================================================
+What did I learn today? What is the "big idea"?
+the units of measurement vh and vw exist
+What challenges did I encounter?
+the calculation of the percentges to match our previous image sizes
+How has what I've learned impacted my thinking?
+I am loosing my mind to make it look good
+
+
+Date Nov 15
+=====================================================
+What did I learn today? What is the "big idea"?
+figuring out the dropdown bars
+What challenges did I encounter?
+code taken from the internet that is poorly written causes later problems
+How has what I've learned impacted my thinking?
+I am suspicous of my fellow engineers because they are stealing code from the internet
+
+
+Date Nov 11
+=====================================================
+What did I learn today? What is the "big idea"?
+The size of the elements in our page change with resolution
+What challenges did I encounter?
+figuring out the percentages to make a responsive page
+How has what I've learned impacted my thinking?
+I think about all users now
+
+
+Date Nov 9
+=====================================================
+What did I learn today? What is the "big idea"?
+The school blocked the terminal in  vscode so I can no longer work at school
+What challenges did I encounter?
+allenisd
+How has what I've learned impacted my thinking?
+I need to find a work around for when im on an allen computer
+
+
+Date Nov 5
+=====================================================
+What did I learn today? What is the "big idea"?
+the roles of different members in the group
+What challenges did I encounter?
+figuring out what coding language we should use
+How has what I've learned impacted my thinking?
+I am going to learn html and css
+
+
+DATE Nov 1
+=====================================================
+What did I learn today? What is the "big idea"?
+github is hard to control
+What challenges did I encounter?
+I couldnt get into the git repository in vscode
+How has what I've learned impacted my thinking?
+I need to work harder to get github to work
